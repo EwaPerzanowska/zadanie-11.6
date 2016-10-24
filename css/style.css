@@ -1,0 +1,27 @@
+
+* {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background: darkgrey;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+}
+
+button {  
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.form-control {
+    margin-top: 10px; 
+    margin: 0 auto;
+    width: 60%;
+}
